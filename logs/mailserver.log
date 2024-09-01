@@ -1,0 +1,18 @@
+2024-09-01 21:50:46,409 - INFO - Available AUTH mechanisms: LOGIN(builtin) PLAIN(builtin)
+2024-09-01 21:50:46,410 - INFO - Peer: ('192.168.68.129', 61925)
+2024-09-01 21:50:46,410 - INFO - ('192.168.68.129', 61925) handling connection
+2024-09-01 21:50:46,410 - INFO - ('192.168.68.129', 61925) EOF received
+2024-09-01 21:50:46,410 - INFO - ('192.168.68.129', 61925) Connection lost during _handle_client()
+2024-09-01 21:50:46,410 - INFO - ('192.168.68.129', 61925) connection lost
+2024-09-01 21:51:27,974 - INFO - Available AUTH mechanisms: LOGIN(builtin) PLAIN(builtin)
+2024-09-01 21:51:27,974 - INFO - Peer: ('192.168.68.129', 61955)
+2024-09-01 21:51:27,974 - INFO - ('192.168.68.129', 61955) handling connection
+2024-09-01 21:51:27,975 - INFO - ('192.168.68.129', 61955) EOF received
+2024-09-01 21:51:27,975 - INFO - ('192.168.68.129', 61955) Connection lost during _handle_client()
+2024-09-01 21:51:27,975 - INFO - ('192.168.68.129', 61955) connection lost
+2024-09-01 21:53:53,319 - INFO - Available AUTH mechanisms: LOGIN(builtin) PLAIN(builtin)
+2024-09-01 21:53:53,319 - INFO - Peer: ('192.168.68.129', 62019)
+2024-09-01 21:53:53,320 - INFO - ('192.168.68.129', 62019) handling connection
+2024-09-01 21:53:53,320 - INFO - ('192.168.68.129', 62019) EOF received
+2024-09-01 21:53:53,320 - INFO - ('192.168.68.129', 62019) Connection lost during _handle_client()
+2024-09-01 21:53:53,320 - INFO - ('192.168.68.129', 62019) connection lost
